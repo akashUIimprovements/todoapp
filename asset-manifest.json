@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/apptodo/github.io/static/css/main.19d9ed5e.css",
-    "main.js": "/apptodo/github.io/static/js/main.15f6f6b1.js",
-    "static/js/787.21f3f717.chunk.js": "/apptodo/github.io/static/js/787.21f3f717.chunk.js",
-    "index.html": "/apptodo/github.io/index.html",
-    "main.19d9ed5e.css.map": "/apptodo/github.io/static/css/main.19d9ed5e.css.map",
-    "main.15f6f6b1.js.map": "/apptodo/github.io/static/js/main.15f6f6b1.js.map",
-    "787.21f3f717.chunk.js.map": "/apptodo/github.io/static/js/787.21f3f717.chunk.js.map"
+    "main.css": "/react-gh-pages/static/css/main.19d9ed5e.css",
+    "main.js": "/react-gh-pages/static/js/main.70a759f1.js",
+    "static/js/787.21f3f717.chunk.js": "/react-gh-pages/static/js/787.21f3f717.chunk.js",
+    "index.html": "/react-gh-pages/index.html",
+    "main.19d9ed5e.css.map": "/react-gh-pages/static/css/main.19d9ed5e.css.map",
+    "main.70a759f1.js.map": "/react-gh-pages/static/js/main.70a759f1.js.map",
+    "787.21f3f717.chunk.js.map": "/react-gh-pages/static/js/787.21f3f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19d9ed5e.css",
-    "static/js/main.15f6f6b1.js"
+    "static/js/main.70a759f1.js"
   ]
 }
