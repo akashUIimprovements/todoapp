@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.19d9ed5e.css",
-    "main.js": "/react-gh-pages/static/js/main.70a759f1.js",
-    "static/js/787.21f3f717.chunk.js": "/react-gh-pages/static/js/787.21f3f717.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.19d9ed5e.css.map": "/react-gh-pages/static/css/main.19d9ed5e.css.map",
-    "main.70a759f1.js.map": "/react-gh-pages/static/js/main.70a759f1.js.map",
-    "787.21f3f717.chunk.js.map": "/react-gh-pages/static/js/787.21f3f717.chunk.js.map"
+    "main.css": "/todolist/static/css/main.19d9ed5e.css",
+    "main.js": "/todolist/static/js/main.3a15808c.js",
+    "static/js/787.21f3f717.chunk.js": "/todolist/static/js/787.21f3f717.chunk.js",
+    "index.html": "/todolist/index.html",
+    "main.19d9ed5e.css.map": "/todolist/static/css/main.19d9ed5e.css.map",
+    "main.3a15808c.js.map": "/todolist/static/js/main.3a15808c.js.map",
+    "787.21f3f717.chunk.js.map": "/todolist/static/js/787.21f3f717.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19d9ed5e.css",
-    "static/js/main.70a759f1.js"
+    "static/js/main.3a15808c.js"
   ]
 }
